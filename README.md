@@ -8,7 +8,7 @@ This repository showcases some of my work, visuals, and workflows in QA.
 
 # QA Workflow
 
-![QA Workflow](A_flowchart_infographic_illustrates_the_Quality_As.png)
+![QA Workflow](https://github.com/stan-lee101/QA-Workflow/blob/main/QA%20work%20flow.jpg)
 
 ## Overview
 This diagram illustrates the core stages of the *Quality Assurance (QA) process* used in software testing.  
